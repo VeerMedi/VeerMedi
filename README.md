@@ -17,7 +17,7 @@
 ```yaml
 name     : Veer Mediwala
 location : Indore, India
-current  : Full Stack Developer & AI Engineer @ The Hustle House
+current  : Full Stack Developer & AI/ML Engineer 
 stacks   : TypeScript, Python, React, Node.js, FastAPI
 focus    : AI-powered products, Real Estate Tech, Full Stack Development
 open_to  : Freelance  |  Full-time Roles  |  Collaborations
