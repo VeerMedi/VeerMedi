@@ -69,17 +69,6 @@ open_to  : Freelance  |  Full-time Roles  |  Collaborations
 
 ---
 
-## 🚀 Featured Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| [Ghar-Wapsi.ai](https://github.com/VeerMedi/Ghar-Wapsi.ai) | AI-powered real estate platform | TypeScript, AI/ML |
-| [house-price-prediction](https://github.com/VeerMedi/house-price-prediction) | House price prediction using Linear Regression & GBR | Python, Jupyter |
-| [BajajQual-1](https://github.com/VeerMedi/BajajQual-1) | Bajaj HackRx 6.0 qualifier submission | Python |
-| [LeetCode Problems](https://github.com/VeerMedi/LeetCode_Problems) | DSA practice & problem solving | Python |
-
----
-
 ## 📈 Contribution Activity
 
 <div align="center">
